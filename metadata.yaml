@@ -1,0 +1,29 @@
+_repo: In-the-Morning-GlowShort-Stories_43862
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43862-rst/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Gilson, Roy Rolfe
+    birthdate: 1875
+    deathdate: 1933
+    gutenberg_agent_id: '40801'
+    url: http://www.gutenberg.org/2009/agents/40801
+description: ''
+gutenberg_issued: '2013-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43862'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- Social life and customs -- 20th century -- Fiction'
+- !lcsh 'Short stories'
+- !lcc 'PS'
+tableOfContents: Grandfather -- Grandmother -- While Aunt Jane played -- Little sister
+  -- Our yard -- The toy grenadier -- Father -- Mother.
+title: 'In the Morning Glow: Short Stories'
+url: http://www.gutenberg.org/ebooks/43862
